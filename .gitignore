@@ -1,0 +1,15 @@
+*.suo
+*.opendb
+*.db
+*.png
+*.pyc
+*.csv
+*.pb
+*.txt
+*.tlog
+*.lastbuildstate
+*.log
+*.iobj
+*.ipdb
+*.obj
+*.pdb
